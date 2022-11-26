@@ -1,4 +1,4 @@
-# Practica-3-Entornos-de-Desarrollo
+# Practica 3 Entornos de Desarrollo
 
 He hecho un repositorio desde cero, donde he metido un .txt con 3 versiones diferentes para cada commit.
 
